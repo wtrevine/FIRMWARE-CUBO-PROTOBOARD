@@ -1,112 +1,112 @@
 ###############################################################################
 #
-# IAR ELF Linker V7.50.2.10312/W32 for ARM                20/Nov/2017  12:45:53
+# IAR ELF Linker V7.50.2.10312/W32 for ARM                04/Feb/2018  10:17:50
 # Copyright 2007-2015 IAR Systems AB.
 #
 #    Output file  =  
-#        C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Exe\CUBO.out
+#        C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Exe\CUBO.out
 #    Map file     =  
-#        C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\List\CUBO.map
+#        C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\List\CUBO.map
 #    Command line =  
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\adc.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\cmsis_os.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\croutine.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\dma.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\event_groups.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\fontes.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\freertos.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\gpio.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\heap_4.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\i2c.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\list.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\main.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\port.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\portasm.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\queue.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\rtc.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\spi.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\ssd1306.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\startup_stm32f103xb.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_adc.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_adc_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_cortex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_dma.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_flash.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_flash_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_gpio.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_gpio_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_i2c.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_msp.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_pwr.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_rcc.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_rcc_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_rtc.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_rtc_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_spi.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_spi_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_tim.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_tim_ex.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_hal_uart.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\stm32f1xx_it.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\system_stm32f1xx.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\tasks.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\timers.o"
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj\usart.o" --redirect
-#        _Printf=_PrintfFull --redirect _Scanf=_ScanfFull -o "C:\Users\William
-#        Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Exe\CUBO.out" --map
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\List\CUBO.map" --config
-#        "C:\Users\William Trevine\Google
-#        Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/stm32f103xb_flash.icf"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\adc.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\cmsis_os.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\croutine.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\dma.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\event_groups.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\fontes.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\freertos.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\gpio.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\heap_4.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\i2c.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\list.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\main.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\port.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\portasm.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\queue.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\rtc.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\spi.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\ssd1306.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\startup_stm32f103xb.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_adc.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_adc_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_cortex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_dma.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_flash.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_flash_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_gpio.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_gpio_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_i2c.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_msp.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_pwr.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_rcc.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_rcc_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_rtc.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_rtc_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_spi.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_spi_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_tim.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_tim_ex.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_hal_uart.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\stm32f1xx_it.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\system_stm32f1xx.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\tasks.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\timers.o"
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj\usart.o"
+#        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull -o
+#        "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Exe\CUBO.out"
+#        --map "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\List\CUBO.map"
+#        --config "C:\Users\William
+#        Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/stm32f103xb_flash.icf"
 #        --semihosting --entry __iar_program_start --vfe
 #
 ###############################################################################
@@ -393,7 +393,7 @@ Copy/packbits (__iar_packbits_init_single3)
 
     Module                  ro code  ro data  rw data
     ------                  -------  -------  -------
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj: [1]
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj: [1]
     adc.o                       320       76      116
     cmsis_os.o                  118
     dma.o                        48
@@ -863,7 +863,7 @@ xTickCount              0x200019f8    0x4  Data  Lc  tasks.o [1]
 xYieldPending           0x20001a08    0x4  Data  Lc  tasks.o [1]
 
 
-[1] = C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM\CUBO\Obj
+[1] = C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM\CUBO\Obj
 [2] = command line
 [3] = dl7M_tlf.a
 [4] = m7M_tl.a
