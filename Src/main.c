@@ -9,7 +9,7 @@
   * inserted by the user or by software development tools
   * are owned by their respective copyright owners.
   *
-  * Copyright (c) 2017 STMicroelectronics International N.V. 
+  * Copyright (c) 2018 STMicroelectronics International N.V. 
   * All rights reserved.
   *
   * Redistribution and use in source and binary forms, with or without 
@@ -109,9 +109,10 @@ int main(void)
   MX_DMA_Init();
   MX_ADC1_Init();
   MX_I2C1_Init();
-  MX_RTC_Init();
   MX_SPI2_Init();
   MX_USART2_UART_Init();
+  MX_USART3_UART_Init();
+  MX_RTC_Init();
 
   /* USER CODE BEGIN 2 */
   ssd1306_init();

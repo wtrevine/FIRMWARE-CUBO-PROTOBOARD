@@ -1,46 +1,46 @@
-"C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc_ex.c"
+"C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc_ex.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Inc
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM3
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM3
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Drivers/CMSIS/Include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Drivers/CMSIS/Include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\EWARM/../Drivers/SSD1306/Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\EWARM/../Drivers/SSD1306/Inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\inc\c
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Inc
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\STM32F1xx_HAL_Driver\Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\STM32F1xx_HAL_Driver\Inc
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM3
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM3
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\CMSIS\Device\ST\STM32F1xx\Include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\CMSIS\Device\ST\STM32F1xx\Include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Middlewares\Third_Party\FreeRTOS\Source\include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Middlewares\Third_Party\FreeRTOS\Source\include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\CMSIS\Include
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\CMSIS\Include
 -I
-C:\Users\William Trevine\Google Drive\PROJETOS\CUBO\FIRMWARE\Cubo\Drivers\SSD1306\Inc
+C:\Users\William Trevine\Documents\GitHub\FIRMWARE-CUBO-PROTOBOARD\Drivers\SSD1306\Inc
 -DUSE_HAL_DRIVER=1
 -DSTM32F103xB=1
 -D__CHAR_BITS__=8

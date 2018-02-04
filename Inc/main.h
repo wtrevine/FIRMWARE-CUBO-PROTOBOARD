@@ -9,7 +9,7 @@
   * inserted by the user or by software development tools
   * are owned by their respective copyright owners.
   *
-  * Copyright (c) 2017 STMicroelectronics International N.V. 
+  * Copyright (c) 2018 STMicroelectronics International N.V. 
   * All rights reserved.
   *
   * Redistribution and use in source and binary forms, with or without 
@@ -58,6 +58,10 @@
 
 #define LED_Pin GPIO_PIN_13
 #define LED_GPIO_Port GPIOC
+#define ESP_ENABLE_Pin GPIO_PIN_6
+#define ESP_ENABLE_GPIO_Port GPIOA
+#define ESP_RESET_Pin GPIO_PIN_7
+#define ESP_RESET_GPIO_Port GPIOA
 #define CS1_Pin GPIO_PIN_12
 #define CS1_GPIO_Port GPIOB
 #define CS2_Pin GPIO_PIN_14

@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/William Trevine/Google Drive/PROJETOS/CUBO/FIRMWARE/Cubo/Inc
+HeaderPath=C:/Users/William Trevine/Documents/GitHub/FIRMWARE-CUBO-PROTOBOARD/Inc
 HeaderFiles=gpio.h;adc.h;dma.h;FreeRTOSConfig.h;i2c.h;rtc.h;spi.h;usart.h;stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
-SourcePath=C:/Users/William Trevine/Google Drive/PROJETOS/CUBO/FIRMWARE/Cubo/Src
+SourcePath=C:/Users/William Trevine/Documents/GitHub/FIRMWARE-CUBO-PROTOBOARD/Src
 SourceFiles=gpio.h;adc.h;dma.h;FreeRTOSConfig.h;i2c.h;rtc.h;spi.h;usart.h;stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;gpio.c;adc.c;dma.c;freertos.c;i2c.c;rtc.c;spi.c;usart.c;stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
